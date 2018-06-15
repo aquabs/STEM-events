@@ -8,7 +8,7 @@
 <body>
   <header class="container">
     <div class="row">
-      <p class="col-sm-4">Home</p>
+      <a href="https:aquabs.github.io/STEM/"<p class="col-sm-4">Home</p>
       <nav class="col-sm-8 text-right">
         <a href="https://aquabs.github.io/STEM-clubs/"><p>Clubs</p></a>
         <a href=" https://aquabs.github.io/STEM-events/. "><p>Events</p></a>

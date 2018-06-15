@@ -1,3 +1,4 @@
+
 <html>
 <head>
   <meta charset="utf-8"/>
@@ -18,12 +19,16 @@
   </header> 
   <body>
 
-<div class="container">
+<section class="container">
+  <div class="row">
+    <nav class="col-sm-4">
   <img src="https://15xomi2v386wytrb8nbsoq34-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/jack-of-all-trades-660x400.png" class="image">
   <div class="overlay">
     <div class="text">Girls Who Code!</div>
   </div>
+    </nav>
 </div>
+</section>
 
 </body>
     <footer class="container">

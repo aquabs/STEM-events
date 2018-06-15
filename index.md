@@ -18,12 +18,10 @@
   </header> 
   <body>
 
-<h2>Fade in Overlay</h2>
-
 <div class="container">
-  <img src="img_avatar.png" alt="Avatar" class="image">
+  <img src="https://15xomi2v386wytrb8nbsoq34-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/jack-of-all-trades-660x400.png" class="image">
   <div class="overlay">
-    <div class="text">Hello World</div>
+    <div class="text">Girls Who Code!</div>
   </div>
 </div>
 

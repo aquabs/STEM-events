@@ -17,6 +17,18 @@
       </nav>
     </div>
   </header> 
+  <body>
+
+<h2>Fade in Overlay</h2>
+
+<div class="container">
+  <img src="img_avatar.png" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">Hello World</div>
+  </div>
+</div>
+
+</body>
     <footer class="container">
     <div class="row">
       <p class="col-sm-4">&copy; STEM Camas</p>
